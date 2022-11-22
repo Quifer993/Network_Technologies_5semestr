@@ -1,6 +1,7 @@
 node_modules/
 dist/
-
+lab3not/
+scan/
 # Compiled Java class files
 *.class
 
